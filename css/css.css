@@ -3,16 +3,17 @@ code{
 	color: #4C4C4C;
 }
 
+code.notes{
+	margin: 0%;
+	display: block;
+}
+
 a {
 	color: #4C4C4C;
 }
 
 a:hover{
 	text-decoration: none;
-}
-
-code:hover{
-	text-decoration: underline;
 }
 
 body{
