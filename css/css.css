@@ -1,0 +1,22 @@
+code{
+	font-family: "Lucida Console", Monaco, monospace;
+	color: #4C4C4C;
+}
+
+a {
+	color: #4C4C4C;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+code:hover{
+	text-decoration: underline;
+}
+
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 12pt;
+	text-align: center;
+}
